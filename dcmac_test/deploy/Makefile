@@ -1,4 +1,4 @@
-PDI:=../hw/dcmac_0_exdes_imp_top.pdi
+PDI:=../hw/dcmac_0_ex_top.pdi
 AVED_PDI:= ./flash_setup/fpt_v80_gen5x8.pdi
 help:
 	@echo "make prog : burning the cfg memory with PDI file in ./flash_setup"
