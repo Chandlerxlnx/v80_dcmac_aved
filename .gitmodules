@@ -2,5 +2,5 @@
 	path = AVED
 	url = https://github.com/Xilinx/AVED.git
 [submodule "hw/dcmac_ex"]
-	path = hw/dcmac_ex
-	url = chandler@xsjapps57:/group/bcapps/chunxia/gitroot/dcmac_ex
+	path = dcmac_test/hw/dcmac_ex
+	url = chandler@xcoapps65:/group/bcapps/chunxia/gitroot/dcmac_ex
