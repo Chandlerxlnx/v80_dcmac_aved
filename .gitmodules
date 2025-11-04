@@ -1,6 +1,6 @@
 [submodule "AVED"]
 	path = AVED
 	url = https://github.com/Xilinx/AVED.git
-[submodule "hw/dcmac_ex"]
+[submodule "dcmac_test/hw/dcmac_ex"]
 	path = dcmac_test/hw/dcmac_ex
-	url = chandler@xcoapps65:/group/bcapps/chunxia/gitroot/dcmac_ex
+	url = git@github.com:Chandlerxlnx/v80_dcmac_ex.git
